@@ -80,7 +80,7 @@ export default function Login({ navigation }) {
             <InputTitle>SENHA</InputTitle>
             <InputContainer>
               <Input
-                placeholder="Sua senha secreta"
+                placeholder="Sua senha"
                 autoCapitalize="none"
                 autoCorrect={false}
                 secureTextEntry
